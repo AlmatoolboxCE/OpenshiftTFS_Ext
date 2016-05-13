@@ -42,13 +42,13 @@
             "uri": "www.almaviva.it"
         }, 
         "getstarted": {
-            "uri": "http://almatoolboxce.github.io//AlmaToolBoxCE//"
+            "uri": "http://almatoolboxce.github.io//OpenshiftTFS_Ext//"
         },
 		"learn": {
-            "uri": "http://www.almaviva.it//EN//OurOffering//Information_Technology//Pagine//AlmaToolBox.aspx"
+            "uri": "https://github.com//AlmatoolboxCE//OpenshiftTFS_Ext//blob//master//learn.md"
         },
         "repository": {
-            "uri": "https://github.com//AlmatoolboxCE//AlmaToolBoxCE"
+            "uri": "https://github.com//AlmatoolboxCE//OpenshiftTFS_Ext"
         }
     },
     "branding": {
