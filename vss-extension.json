@@ -58,6 +58,11 @@
     "icons": {
         "default": "extension-icon.png"        
     },
+	
+    "galleryFlags": [
+        "Public",
+        "Preview"
+    ],
     "files": [
 		{
             "path": "oc3tagTask"
